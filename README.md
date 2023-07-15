@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
 
 <!--
-**funny-lee/funny-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+    Hi there 
+  </h1>
+  
+  <img src="https://raw.githubusercontent.com/funny-lee/funny-lee/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/funny-lee/funny-lee/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 -->
+
+<a href="https://github.com/funny-lee/ssr-contributions-img">
+
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/funny-lee?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/funny-lee?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+    <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/funny-lee?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/funny-lee?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)" >
+  </picture>
+</a>
+  
+  
+</div>
